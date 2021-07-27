@@ -1,8 +1,0 @@
-1. descomprimir la carpeta llamada "nota3.rar"
-2. carpeta llamada "nota3" en la carpeta local de tu sevidor (wamp o xampp)
-3. hacer cambio los cambios correspondientes en el archivo "cn.php" para adecuar el proyecto en tu base de datos
-4. tu base de datos debe tener las tablas "apuntes", y "contenido"
-	- para la tabla apuntes incorporar 4 columnas (id(marcar casilla auto increment), nombre(varchar),tipo(varchar),url(varchar))
-	- para la tabla contenido incorporar 5 columnas (id(marcar casilla auto increment), Nombre(varchar),Descripcion(varchar),fechacreacion(varchar),fechaactualizacion(varchar))
-
-una vez seguidos estos pasos puedes establecer la conexion desde tu servidor local, gracias por tu descarga :D
